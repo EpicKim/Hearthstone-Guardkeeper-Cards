@@ -24,7 +24,6 @@ AAECAZICCPIFrqsCvqsCvq4ClL0CoM0Cps4CmdMCC0Bf/gHEBuQItLsCy7wCz7wC3b4CyccCh84CAA==
 
 AAECAaoICqsC5QeTCZG8As+8ApS9Ava9ApvLAqbOAuvPAgqBBPAH+qoCoLYCh7wC0bwC+b8CkcECm8IC68ICAA==
 
-### 海盗战
+[战士合集:](https://github.com/EpicKim/Hearthstone-Guardkeeper-Cards/blob/master/%E6%88%98%E5%A3%AB%E5%8D%A1%E7%BB%84%E5%90%88%E9%9B%86.md)
 
-AAEBAQcErwSkBoQXkbwCDRywApED/wOOBagF1AXuBucH7wf7D4KwAoiwAgA=
 
