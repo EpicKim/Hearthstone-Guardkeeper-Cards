@@ -1,6 +1,6 @@
 # 炉石传说守门员卡组合集
 
-### 鱼人贼
+### 鱼人盗賊
 
 AAEBAaIHBOAF3QiStgKRvAINvwHFA9sD/gPjBdAH+AenCPAPiq0CncICscIChsQCAA==
 
